@@ -18,7 +18,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Screenshot for DeskTop Version](./images/desktop.png)
-![Screenshot for Moblie Version](./images/mob.png)
 
 ### Links
 
